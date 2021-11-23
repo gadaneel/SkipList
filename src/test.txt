@@ -1,0 +1,3 @@
+dump
+
+insert rectangle1 1 1 1 1
